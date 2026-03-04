@@ -5,7 +5,7 @@ const path       = require('path');
 const cors       = require('cors');
 const crypto     = require('crypto');
 const mongoose   = require('mongoose');
-const cloudinary = require('cloudinary').v2;
+const cloudinary = require('cloudinary');
 const { CloudinaryStorage } = require('multer-storage-cloudinary');
 
 const app  = express();
