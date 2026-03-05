@@ -1,0 +1,14 @@
+[
+  {
+    "id": "a8bbef6c-0cdb-4219-bd6f-a47cca750ffb",
+    "userId": "163280c1-e697-436d-8849-e41d6ccc4b34",
+    "type": "subscribe",
+    "data": {
+      "fromUsername": "ADMIN 2.0",
+      "fromChannelName": "O",
+      "fromAvatar": null
+    },
+    "read": true,
+    "createdAt": "2026-03-04T15:19:35.560Z"
+  }
+]

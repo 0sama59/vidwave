@@ -1,0 +1,37 @@
+[
+  {
+    "id": "163280c1-e697-436d-8849-e41d6ccc4b34",
+    "username": "the osama",
+    "email": "o.awadllah@gmail.com",
+    "channelName": "hehe",
+    "channelDesc": "hi i'm the owner",
+    "avatar": null,
+    "hash": "77027ff0673fdb62157fb9ce0eb9c244e06e55af11f7201ef459425b7c8c73050dbbf4ca51b7430c907924a116a0e3552139743dcd28dcf43f1283c2dc2e9e30",
+    "salt": "54e7cb62426a9a316ed43621132af781",
+    "subscribers": [
+      "0d593ee3-1cfb-4b43-9e9d-248b9bb6f0bb"
+    ],
+    "verified": false,
+    "isAdmin": true,
+    "createdAt": "2026-03-04T14:51:58.769Z",
+    "prefs": {
+      "accent": "#22c55e",
+      "accent2": "#16a34a",
+      "compact": true
+    }
+  },
+  {
+    "id": "0d593ee3-1cfb-4b43-9e9d-248b9bb6f0bb",
+    "username": "ADMIN 2.0",
+    "email": "o.awadllah@gmail.com2.0",
+    "channelName": "O",
+    "channelDesc": "",
+    "avatar": null,
+    "hash": "203b3bf2c9d95e5254da37874d65aaa6df5ac38d1e1f7cba2741aa73a8cfbe0b4e5b297e4cf96683bbd9d2a315a7a50f66f97b45c76b6d6188203e3dedf3757a",
+    "salt": "2e20a8451214568f2af778ab0c7febd3",
+    "subscribers": [],
+    "verified": false,
+    "isAdmin": false,
+    "createdAt": "2026-03-04T15:19:29.245Z"
+  }
+]
